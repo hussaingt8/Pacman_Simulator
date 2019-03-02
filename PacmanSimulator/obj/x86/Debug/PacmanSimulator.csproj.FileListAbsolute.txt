@@ -1,0 +1,5 @@
+C:\Users\Hussai1\Documents\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.exe
+C:\Users\Hussai1\Documents\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.pdb
+C:\Users\Hussai1\Documents\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Hussai1\Documents\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.exe
+C:\Users\Hussai1\Documents\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.pdb

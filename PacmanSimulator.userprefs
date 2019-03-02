@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pacman_test\Test.cs">
+    <Files>
+      <File FileName="PacmanSimulator\Pacman.cs" Line="1" Column="1" />
+      <File FileName="PacmanSimulator\Program.cs" Line="1" Column="1" />
+      <File FileName="Pacman_test\Test.cs" Line="17" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
